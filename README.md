@@ -4,9 +4,8 @@
 
 <p align="center">
  
- <img src="https://badges.pufler.dev/visits/v6nom/v6nom"/> 
- <!-- <img src="https://badges.pufler.dev/years/v6nom"/> -->
- <img src="https://badges.pufler.dev/repos/v6nom"/>
+ <img src="https://badges.pufler.dev/visits/v6nom/prodigeomid"/> 
+ <img src="https://badges.pufler.dev/repos/prodigeomid"/>
  <img src="https://badges.pufler.dev/commits/monthly/v6nom" />
 
 </p>
@@ -25,7 +24,7 @@
 
 <p align="center">
 <a href="mailto: prodigeomid@gmail.com">
- <img src="https://img.shields.io/badge/-v6nom-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:v6nom2@protonmail.com"/>
+ <img src="https://img.shields.io/badge/-prodigeomid-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:prodigeomid@gmail.com"/>
 </a>
 </p>
 
